@@ -1,2 +1,3 @@
 # hello-world
-This is the hello-wor;d repository
+This is the hello-world repository
+This is the readme-edit branch of the repository.
